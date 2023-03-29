@@ -1,0 +1,4 @@
+#!/bin/bash
+cd darkflow
+#python objectDetectorYOLO.py
+python YOLOtest.py
